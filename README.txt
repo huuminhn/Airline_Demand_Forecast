@@ -26,7 +26,7 @@ Naïve forecast
 ######
 Booking Model Based on two information.
 Booking curve : Estimated from historical bookings.
-Bookings-on-hand (on-the-book): cumulative bookings at the given booking date 
+Bookings-on-hand (on-the-book): cumulative bookings at the given booking date. 
 
 ######
 Additive model
