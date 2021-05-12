@@ -14,7 +14,7 @@ Booking date
 Cumulative bookings
 
 ######
-Training Data
+Training Data:
 84 departure dates
 61 days prior (days prior=0,1,2,…,60)
 
