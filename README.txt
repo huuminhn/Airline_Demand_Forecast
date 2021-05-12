@@ -16,7 +16,7 @@ Cumulative bookings
 ######
 Training Data
 84 departure dates
-61 days prior (days prior=0,1,…,60)
+61 days prior (days prior=0,1,2,…,60)
 
 Validation Data
 7 departure dates (7/25~7/31)
