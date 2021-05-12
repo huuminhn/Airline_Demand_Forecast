@@ -8,7 +8,7 @@ Apply booking pattern estimated from training data into validation data
 Compute final demand forecasts for 7 departure dates and days 
 
 #######
-Three variables:
+Three variable
 Departure date
 Booking date
 Cumulative bookings
