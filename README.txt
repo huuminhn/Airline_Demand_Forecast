@@ -39,3 +39,4 @@ Forecast = on-the-book/(historical booking rate for given days prior)
 Model Evaluation based on Mean Absolute Scaled Error (MASE):
 (Total absolute error of model) / (Total absolute error of Naive Forecasts)
 
+testing 1 2 3
