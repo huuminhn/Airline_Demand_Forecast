@@ -1,4 +1,4 @@
-Airline Demand Forecasting
+Airline Demand Forecastin
 Data collected from Airline survey in 2012
 Data had been cleaned
 
