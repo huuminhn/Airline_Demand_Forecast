@@ -1,6 +1,6 @@
 Airline Demand Forecasting
 Data collected from Airline survey in 2012
-Data  been cleaned
+Data had been cleaned
 
 ########
 Purpose of this project is Prediction:
